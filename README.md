@@ -40,6 +40,10 @@ It can be seen that the flight delay time is correlated with the departure delay
 
 <img width="500" alt="Screen Shot 2019-11-04 at 12 32 40 AM" src="https://user-images.githubusercontent.com/43712046/68103325-e06aea80-fe9b-11e9-8664-bd32b9b8c71a.png">
 
+Arrival and Departure Delays of different cities (Airline: ExpressJet Airnline Inc.)
+
+<img width="1439" alt="Screen Shot 2019-11-04 at 4 32 46 PM" src="https://user-images.githubusercontent.com/43712046/68163702-bf001200-ff20-11e9-868a-c43c491333b2.png">
+
 ExpressJet city Average Delays
 
 <img width="538" alt="Screen Shot 2019-11-04 at 4 19 24 PM" src="https://user-images.githubusercontent.com/43712046/68162959-ebb32a00-ff1e-11e9-8fd4-6ab8100dee98.png">
