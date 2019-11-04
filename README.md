@@ -11,6 +11,7 @@ Jupyter Notebook (Language: Python)
 **Pandas** provide the necessary tools to perform data cleaning and munging for structured data. 
 
 pandas can be installed via pip from [PyPI.](https://pypi.org/project/pandas/)
+
 `pip install pandas`
 
 If Anaconda distribution is installed then, install pandas as shown [here](https://docs.anaconda.com/anaconda/navigator/tutorials/pandas/)
