@@ -17,7 +17,7 @@ pandas can be installed via pip from [PyPI.](https://pypi.org/project/pandas/)
 
 If Anaconda distribution is installed then, install pandas as shown [here](https://docs.anaconda.com/anaconda/navigator/tutorials/pandas/)
 
-We use pandas to merge all the monthly files and generate a combined csv file. To select a few Airlines of interest pandas is used to extract the required information and finally only the data required for those airlines are concatenated into a single data frame and a final csv file of interest is generated.
+`We use pandas to merge all the monthly files and generate a combined csv file. To select a few Airlines of interest pandas is used to extract the required information and finally only the data required for those airlines are concatenated into a single data frame and a final csv file of interest is generated.`
 
 The Jupyter Notebook can be found [here.](https://github.com/pavannaik3009/BusinessDataVisualization/blob/master/DataMunging.ipynb)
 
