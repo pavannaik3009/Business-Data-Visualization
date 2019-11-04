@@ -6,6 +6,7 @@ Procure the BTS data from [here.](https://www.transtats.bts.gov/DL_SelectFields.
 Download monthly files that are needed to visualize (I have used the data that ranges from :June 2016- July2017). Utilize the lookup tables for features of the data. 
 
 ## Data Munging
+Data wrangling, sometimes referred to as data munging, is the process of transforming and mapping data from one "raw" data form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics.
 Jupyter Notebook (Language: Python)
 
 **Pandas** provide the necessary tools to perform data cleaning and munging for structured data. 
