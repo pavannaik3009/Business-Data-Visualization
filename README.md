@@ -33,3 +33,5 @@ Tool: Tableau
 
 Tableau is a Data Visualisation tool that is widely used for Business Intelligence. It helps create interactive graphs and charts in the form of dashboards and worksheets to gain business insights. 
 
+Objective: Finding reasons and trends for Airline delays in different cities in the USA.
+The Tableau workbooks can be found in the repository.
