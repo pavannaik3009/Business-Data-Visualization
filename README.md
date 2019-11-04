@@ -42,7 +42,7 @@ It can be seen that the flight delay time is correlated with the departure delay
 
 ExpressJet's delay from Origin (In figure below: Origin=Chicago,ORD)
 
-<img width="500" align="center" alt="Screen Shot 2019-11-04 at 4 14 33 PM" src="https://user-images.githubusercontent.com/43712046/68162723-4b5d0580-ff1e-11e9-8206-f4fd593f4206.png">
+<img width="500" alt="Screen Shot 2019-11-04 at 4 14 33 PM" src="https://user-images.githubusercontent.com/43712046/68162723-4b5d0580-ff1e-11e9-8206-f4fd593f4206.png">
 
 
 The Tableau workbooks can be found in the repository.
