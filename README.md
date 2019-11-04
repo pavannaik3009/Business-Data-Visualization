@@ -34,3 +34,7 @@ Tableau is a Data Visualisation tool that is widely used for Business Intelligen
 
 Objective: Finding reasons and trends for Airline delays in different cities in the USA.
 The Tableau workbooks can be found in the repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
